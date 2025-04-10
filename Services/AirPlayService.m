@@ -22,7 +22,7 @@
 #import "ConnectError.h"
 
 #import "NSObject+FeatureNotSupported_Private.h"
-
+// tag标记
 @interface AirPlayService () <UIWebViewDelegate, ServiceCommandDelegate, UIAlertViewDelegate>
 
 @end
